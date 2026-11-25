@@ -1,16 +1,31 @@
-## Hi there 👋
+# Vivan Mehta
 
-<!--
-**VivanMehta/VivanMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Student | Systems Technician
 
-Here are some ideas to get you started:
+I'm a Software Development student at SAIT with a background in UAV systems, electronics, hardware integration, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include software engineering, robotics, automation, and embedded systems.
+
+### Technical Skills
+
+- **Languages:** Python, JavaScript, TypeScript
+- **Web Development:** Django, Flask, HTML, CSS
+- **Tools:** Git, Linux, Docker
+- **Hardware:** Raspberry Pi, Arduino, UAV Systems
+
+### Experience
+
+- **Systems Technician** — Tech & Bots Inc.
+- **Volunteer Website Developer** — Youth Volunteer Corps Airdrie
+- **Software Development Diploma** — SAIT, 2026–2028
+
+### Current Focus
+
+- Software engineering and robotics
+- Automation and API integrations
+- Computer vision and embedded systems
+- Independent software development projects
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/vivan-mehta-a43ba5293/)
