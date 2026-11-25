@@ -16,7 +16,6 @@ My interests include software engineering, robotics, automation, and embedded sy
 ### Experience
 
 - **Systems Technician** — Tech & Bots Inc.
-- **Volunteer Website Developer** — Youth Volunteer Corps Airdrie
 - **Software Development Diploma** — SAIT, 2026–2028
 
 ### Current Focus
